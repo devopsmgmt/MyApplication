@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{636C855D-59BB-43C0-85BC-AD87C0B88EAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{F50DB23A-D6CD-4129-AAF8-837154CED903}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{636C855D-59BB-43C0-85BC-AD87C0B88EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{636C855D-59BB-43C0-85BC-AD87C0B88EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{636C855D-59BB-43C0-85BC-AD87C0B88EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{636C855D-59BB-43C0-85BC-AD87C0B88EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50DB23A-D6CD-4129-AAF8-837154CED903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50DB23A-D6CD-4129-AAF8-837154CED903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50DB23A-D6CD-4129-AAF8-837154CED903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50DB23A-D6CD-4129-AAF8-837154CED903}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
