@@ -17,7 +17,7 @@ namespace HelloWorld.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your app description page.";
+            ViewBag.Message = "Check in the Jumping Japang";
 
             return View();
         }
