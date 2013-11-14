@@ -17,7 +17,7 @@ namespace HelloWorld.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Check in the Jumping Japang";
+            ViewBag.Message = "Heelo Jayanti";
 
             return View();
         }
